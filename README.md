@@ -106,8 +106,8 @@
 ## Stats:
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshrajdabhi&layout=donut-vertical&theme=swift" alt="harshrajdabhi" /></p>
-<br/>![Streak](https://github-readme-streak-stats.herokuapp.com/?user=harshrajdabhi&theme=swift&hide_border=false)<br/>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harshrajdabhi&show_icons=true&locale=en&theme=swift" alt="harshrajdabhi" /></p>
+<p>&nbsp;<img align="centre" src="https://github-readme-streak-stats.herokuapp.com/?user=harshrajdabhi&theme=swift&hide_border=false" alt="harshrajdabhi" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=harshrajdabhi&show_icons=true&locale=en&theme=swift" alt="harshrajdabhi" /></p>
 
 
 ## 🏆 GitHub Trophies
@@ -117,9 +117,5 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-
-
-### 😂 Random Dev Meme
-<img src='https://memer-new.vercel.app/' style="height: 400px;"/>
 
 ![Vistor Count](https://komarev.com/ghpvc/?username=harshrajdabhi&style=plastic&color=green)
