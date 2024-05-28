@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Harshraj Dabhi</h1>
 <h3 align="center">I'm a Tech Enthusiast!!</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=harshrajdabhi&label=Profile%20views&color=0e75b6&style=flat" alt="harshrajdabhi" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=harshrajdabhi&style=plastic&color=yellow" alt="harshrajdabhi" /> </p>
 
 <!-- Typing Animation -->
-<p align="left"> <img src="https://readme-typing-svg.herokuapp.com?color=F77222&size=29&multiline=true&width=700&lines=Welcome+To+Harsh+Dabhi's+GitHub+Profile" alt="Typing SVG" /> </p>
+<p align="left"> <img src="https://readme-typing-svg.herokuapp.com?color=F77222&size=29&multiline=true&width=700&lines=Welcome+To+Harshraj+Dabhi's+GitHub+Profile" alt="Typing SVG" /> </p>
 
 <!-- Image -->
 <a href="#"><img width="28%" height="auto" align="right" src="https://user-images.githubusercontent.com/76244600/130684066-fb0b5e47-6c93-469e-ba45-7cb62833b965.png" /></a>
@@ -110,4 +110,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harshrajdabhi&show_icons=true&locale=en" alt="harshrajdabhi" /></p>
 
-![Vistor Count](https://komarev.com/ghpvc/?username=harshrajdabhi)
+![Vistor Count](https://komarev.com/ghpvc/?username=harshrajdabhi&style=plastic&color=green)
