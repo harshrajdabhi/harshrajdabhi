@@ -104,10 +104,11 @@
 
 
 ## Stats:
+## 📊 GitHub Stats:
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshrajdabhi&layout=donut-vertical&theme=swift" alt="harshrajdabhi" /></p>
-<p>&nbsp;<img align="centre" src="https://github-readme-streak-stats.herokuapp.com/?user=harshrajdabhi&theme=swift&hide_border=false" alt="harshrajdabhi" /></p>
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=harshrajdabhi&show_icons=true&locale=en&theme=swift" alt="harshrajdabhi" /></p>
+![Lan](https://github-readme-stats.vercel.app/api/top-langs/?username=harshrajdabhi&theme=swift&hide_border=false&include_all_commits=true&count_private=true&layout=donut-vertical)
+![stats](https://github-readme-stats.vercel.app/api?username=harshrajdabhi&show_icons=true&locale=en&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![streak](https://github-readme-streak-stats.herokuapp.com/?user=harshrajdabhi&theme=swift&hide_border=false)<br/>
 
 
 ## 🏆 GitHub Trophies
