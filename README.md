@@ -14,7 +14,7 @@
 
 - :seedling: I’m currently learning TenserFlow (AI and ML).
 - :telescope: I’m currently working as a Backend Developer.
-- :projects: [Checkout My Latest Resume](www.google.com)
+- :memo: [Checkout My Latest Resume](www.google.com)
 
 ## Connect with me: <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">
 
