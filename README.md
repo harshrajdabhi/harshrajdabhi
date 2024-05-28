@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Harshraj Dabhi</h1>
 <h3 align="center">I'm a Tech Enthusiast!!</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=himalaypatel75&label=Profile%20views&color=0e75b6&style=flat" alt="himalaypatel75" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=harshrajdabhi&label=Profile%20views&color=0e75b6&style=flat" alt="harshrajdabhi" /> </p>
 
 <!-- Typing Animation -->
 <p align="left"> <img src="https://readme-typing-svg.herokuapp.com?color=F77222&size=29&multiline=true&width=700&lines=Welcome+To+Harsh+Dabhi's+GitHub+Profile" alt="Typing SVG" /> </p>
@@ -110,6 +110,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshrajdabhi&layout=donut-vertical" alt="harshrajdabhi" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=himalaypatel75&show_icons=true&locale=en" alt="harshrajdabhi" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harshrajdabhi&show_icons=true&locale=en" alt="harshrajdabhi" /></p>
 
 ![Vistor Count](https://komarev.com/ghpvc/?username=harshrajdabhi)
