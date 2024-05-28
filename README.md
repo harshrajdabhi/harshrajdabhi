@@ -106,8 +106,8 @@
 
 ## Stats:
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshrajdabhi&layout=donut-vertical" alt="harshrajdabhi" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshrajdabhi&layout=donut-vertical&theme=swift" alt="harshrajdabhi" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harshrajdabhi&show_icons=true&locale=en" alt="harshrajdabhi" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harshrajdabhi&show_icons=true&locale=en&theme=swift" alt="harshrajdabhi" /></p>
 
 ![Vistor Count](https://komarev.com/ghpvc/?username=harshrajdabhi&style=plastic&color=green)
