@@ -104,11 +104,18 @@
 
 
 ## Stats:
-## 📊 GitHub Stats:
+<div align="center">
 
-![Lan](https://github-readme-stats.vercel.app/api/top-langs/?username=harshrajdabhi&theme=swift&hide_border=false&include_all_commits=true&count_private=true&layout=donut-vertical)
-![stats](https://github-readme-stats.vercel.app/api?username=harshrajdabhi&theme=swift&show_icons=true&locale=en&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![streak](https://github-readme-streak-stats.herokuapp.com/?user=harshrajdabhi&theme=swift&hide_border=false)<br/>
+  <h2>📊 GitHub Stats:</h2>
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshrajdabhi&theme=swift&hide_border=false&include_all_commits=true&count_private=true&layout=donut-vertical" alt="Top Languages" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=harshrajdabhi&theme=swift&show_icons=true&locale=en&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshrajdabhi&theme=swift&hide_border=false" alt="GitHub Streak" />
+  <br/>
+
+</div>
 
 
 ## 🏆 GitHub Trophies
