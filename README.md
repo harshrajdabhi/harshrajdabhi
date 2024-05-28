@@ -47,7 +47,6 @@
 
 ### Back-End Development Tools:
 
-![](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
@@ -98,11 +97,19 @@
 
 ### Operating-System:
 
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=himalaypatel75&show_icons=true&locale=en&layout=compact" alt="himalaypatel75" /></p>
+## Stats:
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=himalaypatel75&show_icons=true&locale=en" alt="himalaypatel75" /></p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harshrajdabhi&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
 
-![Visitor Count](https://komarev.com/ghpvc/?username=Himalaypatel75&color=orange&style=flat-square)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshrajdabhi&layout=donut-vertical" alt="harshrajdabhi" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=himalaypatel75&show_icons=true&locale=en" alt="harshrajdabhi" /></p>
+
+![Vistor Count](https://komarev.com/ghpvc/?username=harshrajdabhi)
